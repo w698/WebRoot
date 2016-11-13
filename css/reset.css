@@ -12,6 +12,7 @@ ol,ul,li{
 a{
     text-decoration: none;
     display: block;
+    color: #fff;
 }
 
 img{
@@ -19,10 +20,11 @@ img{
     display: block;
 }
 
+/*没发现有什么作用，注释！
 .clearfloat:after{
     display: block;
     clear: both;
     content: "";
     visibility: hidden;
     height: 0;
-}
+}*/
