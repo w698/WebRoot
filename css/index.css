@@ -90,6 +90,7 @@
     float: left;
     width: 495px;
     margin-right: 110px;
+    margin-bottom: 58px;
 }
 
 .index-menu .menu-item .title, .index-menu .menu-item .line{
@@ -110,7 +111,6 @@
 
 .index-menu .menu-item .comment{
     margin-top: 4px;
-    height: 58px;
     color: #b7b7b7;
     font-size: 12px;
 }
