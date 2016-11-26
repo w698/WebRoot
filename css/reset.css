@@ -20,7 +20,7 @@ img{
     display: block;
 }
 
-/*没发现有什么作用，注释！*/
+/*清除浮动！*/
 .clearfloat:after{
     display: block;
     clear: both;

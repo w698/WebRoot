@@ -120,3 +120,70 @@
     width: 192px;
     border-top: 1px solid #e3e1e1;
 }
+
+.index-menu .menu-btn{
+    margin: 0 auto;
+    width: 114px;
+    height: 32px;
+    padding-left: 16px;
+    border: 1px solid #d7d5d5;
+    font-size: 14px;
+    line-height: 32px;
+    color: #b7b7b7;
+}
+
+.index-menu .menu-btn .icon{
+    display: inline-block;
+    width: 11px;
+    height: 7px;
+    margin-left: 10px;
+    background: url("../img/index-btn-icon.png") no-repeat;
+}
+
+/**/
+.index-panel{
+    margin-top: 200px;
+}
+
+.index-panel-header{
+
+}
+
+.index-panel-header h3{
+    float: left;
+    font-size: 20px;
+    color: #3b3b3b;
+    /*字体加粗*/
+    font-weight: normal;
+    margin-right: 48px;
+}
+
+.index-panel-header .line{
+    float: left;
+    margin-top: 7px;
+    width: 200px;
+    border-top: 1px solid #e5e3e3;
+}
+
+.index-panel-header .btn-group{
+    /*清除inline-block 默认4像素*/
+    font-size: 0;
+    float: right;
+}
+
+.index-panel-header .btn{
+    display: inline-block;
+    margin-left: 11px;
+    width: 9px;
+    height: 9px;
+    background: #dedede;
+    border-radius: 50%;
+}
+
+.index-panel-header .active{
+    background: #9b9b9b;
+}
+
+.index-panel-container{
+    margin-top: 75px;
+}
