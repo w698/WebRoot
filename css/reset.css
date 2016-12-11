@@ -20,7 +20,7 @@ img{
     display: block;
 }
 
-/*清除浮动！*/
+/*清除浮动！-在容器没有高度时*/
 .clearfloat:after{
     display: block;
     clear: both;
